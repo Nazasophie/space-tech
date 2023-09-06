@@ -1,0 +1,56 @@
+
+
+
+
+
+.welcome-container {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+span{
+  padding-left: 7px;
+}
+
+.logo-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.Logo-image{
+  width: 40px ;
+  height: 40px;
+  margin-right: 10px;
+
+}
+
+.signin-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+input{
+  width: 200px;
+  padding:5px ;
+  margin-bottom: 10px;
+  border: 1px solid ;
+}
+
+button{
+  width: 200px;
+  padding: 5px;
+  background-color: blue;
+}
+
+.or-divilder{
+  margin: 10px 0;
+  font-weight: bold;
+
+}
+
+
